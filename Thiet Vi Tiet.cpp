@@ -8,6 +8,7 @@ void main()
 
 	cout << "This is a string of text - First change";
 
-	cout << "check";
-
+	cout << "Check - Second change";
+	
+	cout << "Just cloned my fork - Third change";
 }
