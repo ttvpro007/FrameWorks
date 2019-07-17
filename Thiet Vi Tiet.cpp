@@ -11,4 +11,6 @@ void main()
 	cout << "Check - Second change";
 	
 	cout << "Just cloned my fork - Third change";
+	
+	cout << "Deleting fork - Fourth change";
 }
