@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class SilasVanBuren : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hey It's Niel and It Works");
-        Debug.Log("it still does");
+        Debug.Log("Yo wassup its ya boi Silas");
     }
 
     // Update is called once per frame
