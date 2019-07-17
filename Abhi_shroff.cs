@@ -13,5 +13,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		Debug.Log("update 2.0");
+        Debug.Log("test branch");
 	}
 }
