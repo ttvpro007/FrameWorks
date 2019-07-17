@@ -8,6 +8,8 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Hey It's Niel and It Works");
+        Debug.Log("it still does");
+        Debug.Log("i hope it works");
     }
 
     // Update is called once per frame
